@@ -1,0 +1,16 @@
+{
+  "name": "hc-stock-exchange-bot",
+  "version": "1.0.0",
+  "description": "HC Stock Exchange Discord Bot - stock-style player market, owner panel, fantasy points. Ready for Render.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "node-fetch": "^2.6.7"
+  }
+}
